@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.NoTitleBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/universe_dark</item>
+        <item name="android:buttonStyle">@style/Button</item>
+    </style>
+
+    <style name="Button" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:paddingTop">@dimen/vertical_dp</item>
+        <item name="android:paddingBottom">@dimen/vertical_dp</item>
+        <item name="android:paddingLeft">@dimen/horizontal_dp</item>
+        <item name="android:paddingRight">@dimen/horizontal_dp</item>
+    </style>
+
+</resources>

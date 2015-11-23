@@ -1,0 +1,9 @@
+<resources>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="load_image_failed">Load image failed</string>
+    <string name="save_image_failed">Save image failed</string>
+    <string name="should_specify_out_uri">Should specify out uri</string>
+    <string name="out_of_memory">Out of memory error</string>
+    <string name="rotating">Rotating...</string>
+</resources>

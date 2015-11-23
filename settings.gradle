@@ -1,0 +1,1 @@
+include ':app', ':mcg-image-crop'

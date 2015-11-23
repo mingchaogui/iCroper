@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="universe_dark">#ff212121</color>
+    <color name="jade_white">#deffffff</color>
+    <color name="jade_silver">#dee1e1e1</color>
+    <color name="glass_dark">#c8414141</color>
+    <color name="highlight">#a0000000</color>
+</resources>

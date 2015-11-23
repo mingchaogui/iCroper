@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="load_image_failed">加载图片失败</string>
+    <string name="save_image_failed">保存图片失败</string>
+    <string name="should_specify_out_uri">需要指定一个保存图片的位置</string>
+    <string name="out_of_memory">Out of memory error</string>
+    <string name="rotating">图片旋转中</string>
+</resources>

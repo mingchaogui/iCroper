@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iCroper.iml" filepath="$PROJECT_DIR$/iCroper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcg-image-crop/mcg-image-crop.iml" filepath="$PROJECT_DIR$/mcg-image-crop/mcg-image-crop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcg-image-crop/mcg-image-crop.iml" filepath="$PROJECT_DIR$/mcg-image-crop/mcg-image-crop.iml" />
+    </modules>
+  </component>
+</project>
